@@ -127,7 +127,7 @@ Crie imagens das aplicações e os configure com o docker-compose.
 
   - Serão dois dias de projeto.
   
-  - Data de entrega para avaliação final do projeto: `27/01/2022 17:00`.
+  - Data de entrega para avaliação final do projeto: `28/01/2022 14:00`.
 
 ---
 
